@@ -78,7 +78,6 @@
     </build>
     <properties>
         <jira.version>5.0</jira.version>
-        5.0.13
         <!--amps.version>3.10.3</amps.version-->
         <amps.version>5.0.13</amps.version>
     </properties>
